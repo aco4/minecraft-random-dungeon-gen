@@ -8,7 +8,7 @@ IMPORTANT: Generation is very resource intensive. Expect large drops in TPS and 
 
 
 
-How to use:
+# How to use:
 
 NOTE: I suggest using a void world preset, to minimalize lag!
 
